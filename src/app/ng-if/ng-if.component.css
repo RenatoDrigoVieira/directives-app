@@ -1,0 +1,13 @@
+input{
+    padding:10px;
+}
+mat-checkbox{
+    padding:10;
+    margin-right:5px;
+}
+mat-form-field{
+    width:100%;
+}
+mat-card{
+    margin:20px;
+}
